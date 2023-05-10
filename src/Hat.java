@@ -5,4 +5,6 @@ public class Hat {
     // love my Hut
 
     // update Hat class
+
+    // again updated Hat class
 }
